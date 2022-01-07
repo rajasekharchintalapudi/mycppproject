@@ -2,10 +2,12 @@ workspace "HelloWorld"
     configurations { "Debug", "Release" }
 
 project "HelloWorld"
-    location "HelloWorld"
-    kind "ConsoleApp"
-    language "c++"
-    targetdir "bin/%{cfg.buildcfg}"
+   location "HelloWorld"
+   kind "ConsoleApp"
+   language "C++"
+   targetdir "bin/%{cfg.buildcfg}"
+
+   files { "HelloWorld/src/**.h", "HelloWorld/src/**.cpp" }
 
     filter "configurations:Debug"
         defines { "DEBUG" }
