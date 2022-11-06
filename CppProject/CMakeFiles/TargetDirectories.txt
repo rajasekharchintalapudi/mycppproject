@@ -1,10 +1,3 @@
 /home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/cpp_project.dir
 /home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/edit_cache.dir
 /home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/rebuild_cache.dir
-<<<<<<< HEAD
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/list_install_components.dir
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/install.dir
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/install/local.dir
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/install/strip.dir
-=======
->>>>>>> a1994b6 (Changed Project Structure)
