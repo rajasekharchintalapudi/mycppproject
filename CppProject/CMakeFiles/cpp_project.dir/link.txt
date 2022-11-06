@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cpp_project.dir/src/cpp_project.cc.o CMakeFiles/cpp_project.dir/src/database_connect.cc.o CMakeFiles/cpp_project.dir/src/operator_overloading.cc.o -o cpp_project 
