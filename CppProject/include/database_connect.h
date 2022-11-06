@@ -12,3 +12,4 @@ public:
     bool LoginDb(string username, string pwd);
 
 };
+void dbconnect_main();

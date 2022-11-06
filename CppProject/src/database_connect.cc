@@ -24,3 +24,9 @@ bool DbConnectImpl::LoginDb(string username, string pwd) {
         return false;
     }
 }
+
+void dbconnect_main() {
+    DbConnect db;
+    DbConnectImpl dbi(db);
+    dbi.LoginDb("Raj", "Sekhar");
+}
