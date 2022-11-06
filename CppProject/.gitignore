@@ -1,0 +1,31 @@
+# Ignoring CMake generated files
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+
+# Ignoring vscode generated files
+.vscode/
+
+# Ignoring bin generated files
+bin/
+
+
+# Ignoring files related to support tools
+Rakefile
+.rake_tasks~
+
+# Ignoring generated documentation
+docs/html
+
+# Ignoring ccls language server files
+.ccls-cache/
+compile_commands.json
+
+# Ignoring generated output from code analyzer and linting
+cppcheck_output.log
+cpplint_output.log
+
+# Ignoring generated poky lock
+singletask.lock
+
+__pycache__

@@ -21,6 +21,8 @@ set(CPP_SOURCE_FILES
     CACHE INTERNAL ""
 )
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+
 add_executable(cpp_project
     ${CPP_SOURCE_FILES}
 )
@@ -28,10 +30,4 @@ add_executable(cpp_project
 target_include_directories(cpp_project
     PUBLIC
         ${CMAKE_SOURCE_DIR}/include
-)
-
-install (TARGETS
-    cpp_project
-    DESTINATION ${CMAKE_SOURCE_DIR}/bin
-    COMPONENT bin
 )
