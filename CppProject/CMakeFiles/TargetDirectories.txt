@@ -1,3 +1,0 @@
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/cpp_project.dir
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/edit_cache.dir
-/home/rchintal/Raj_Workspace/mycppproject/CppProject/CMakeFiles/rebuild_cache.dir
