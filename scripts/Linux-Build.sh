@@ -1,4 +1,5 @@
 #!/bin/bash
 
-vendor/bin/premake/premake5 gmake2
-make
+#vendor/bin/premake/premake5 gmake2
+cmake CppProject/
+make CppProject/Makefile
