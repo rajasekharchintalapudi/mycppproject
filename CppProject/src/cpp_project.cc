@@ -20,7 +20,6 @@ int main()
     std::cout << "WELCOME TO SEKHAR'S CPP PRACTICE PROJECT !!!" << std::endl;
     std::cout << "============================================" << std::endl;
     std::cout << "============================================" << std::endl<<endl;
-    std::cout << "============================================" << std::endl;
 
     do {
         std::cout << "1. Addition of Numbers" << std::endl;
